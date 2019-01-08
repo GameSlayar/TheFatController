@@ -5,7 +5,7 @@
 -- @type Alerts
 Alerts = {}
 Alerts.electric_locomotives = {
-    ['electric-locomotive'] = true,
+    ['electric-locomotive-mk1'] = true,
     ['electric-locomotive-mk2'] = true,
     ['electric-locomotive-mk3'] = true,
     ['hybrid-train'] = true
