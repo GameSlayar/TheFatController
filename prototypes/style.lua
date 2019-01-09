@@ -116,7 +116,7 @@ data.raw["gui-style"].default["fatcontroller_main_button_style"] =
       type = "monolith",
       monolith_image =
       {
-        filename = "__TheFatController__/graphics/gui.png",
+        filename = "__TheFatController_0-16_Fix__/graphics/gui.png",
         priority = "extra-high-no-scale",
         width = 32,
         height = 32,
@@ -128,7 +128,7 @@ data.raw["gui-style"].default["fatcontroller_main_button_style"] =
       type = "monolith",
       monolith_image =
       {
-        filename = "__TheFatController__/graphics/gui.png",
+        filename = "__TheFatController_0-16_Fix__/graphics/gui.png",
         priority = "extra-high-no-scale",
         width = 32,
         height = 32,
@@ -140,7 +140,7 @@ data.raw["gui-style"].default["fatcontroller_main_button_style"] =
       type = "monolith",
       monolith_image =
       {
-        filename = "__TheFatController__/graphics/gui.png",
+        filename = "__TheFatController_0-16_Fix__/graphics/gui.png",
         width = 32,
         height = 32,
         x = 96
@@ -165,7 +165,7 @@ data.raw["gui-style"].default["fatcontroller_player_button"] =
       type = "monolith",
       monolith_image =
       {
-        filename = "__TheFatController__/graphics/guiPlayer.png",
+        filename = "__TheFatController_0-16_Fix__/graphics/guiPlayer.png",
         priority = "extra-high-no-scale",
         width = 32,
         height = 32,
@@ -177,7 +177,7 @@ data.raw["gui-style"].default["fatcontroller_player_button"] =
       type = "monolith",
       monolith_image =
       {
-        filename = "__TheFatController__/graphics/guiPlayer.png",
+        filename = "__TheFatController_0-16_Fix__/graphics/guiPlayer.png",
         priority = "extra-high-no-scale",
         width = 32,
         height = 32,
@@ -189,7 +189,7 @@ data.raw["gui-style"].default["fatcontroller_player_button"] =
       type = "monolith",
       monolith_image =
       {
-        filename = "__TheFatController__/graphics/guiPlayer.png",
+        filename = "__TheFatController_0-16_Fix__/graphics/guiPlayer.png",
         width = 32,
         height = 32,
         x = 64
@@ -329,7 +329,7 @@ for _, icon in pairs(alarms) do
     {
       type="sprite",
       name="fat_" .. icon,
-      filename = "__TheFatController__/graphics/icons/"..icon..".png",
+      filename = "__TheFatController_0-16_Fix__/graphics/icons/"..icon..".png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 32,

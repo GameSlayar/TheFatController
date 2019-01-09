@@ -1,4 +1,4 @@
-fcEmptyAnimations =       { filename = "__TheFatController__/graphics/trans1.png",
+fcEmptyAnimations =       { filename = "__TheFatController_0-16_Fix__/graphics/trans1.png",
       priority = "medium",
       width = 0,
       height = 0,

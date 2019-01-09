@@ -60,14 +60,14 @@ local fatcontroller =
       eat =
       {
         {
-          filename = "__TheFatController__/sound/empty.ogg",
+          filename = "__TheFatController_0-16_Fix__/sound/empty.ogg",
           volume = 1
         }
       },
       heartbeat =
       {
         {
-          filename = "__TheFatController__/sound/empty.ogg"
+          filename = "__TheFatController_0-16_Fix__/sound/empty.ogg"
         }
       },
       animations = fcanimations,
